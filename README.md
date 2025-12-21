@@ -10,6 +10,9 @@ Spam emails pose security risks and reduce productivity. This project aims to au
 
 ## Solution Approach  
 The project uses TF-IDF Vectorization to convert email text into numerical features and Logistic Regression for classification.  
+[📓 Open in Google Colab](https://colab.research.google.com/drive/1-pvQ3GE4py-LkRTcP9QQbA1pR0V6mVeZ?usp=drive_link)
+
+
 
 ## Technologies Used  
 - Python  
