@@ -62,5 +62,12 @@ The dataset consists of labeled email messages with the following columns:
 - Model comparison  
 - Web deployment  
 
+## STEPS TO OPEN PROJECT
+  go to the spam-app folder
+  open terminal(by right click you find open terminal)
+  in open terminal type python api.py
+  the open chrome - there chrome extension(spam detection)
+  copy paste ham and spam text
+  there you will find the message is ham or spam
 ## Author  
 Gobika S  
